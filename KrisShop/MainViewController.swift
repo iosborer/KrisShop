@@ -15,7 +15,7 @@ class MainViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        let url = URL(string: "https://ptcuxyq.com/#/")
+        let url = URL(string: "https://ospwxwlw.com")
         let req = URLRequest(url: url!)
         webView.load(req)
         webView.addObserver(self, forKeyPath: "estimatedProgress", options: [.new], context: nil)
